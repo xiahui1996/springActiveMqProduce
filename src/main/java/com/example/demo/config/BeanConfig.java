@@ -14,7 +14,7 @@ import org.springframework.transaction.PlatformTransactionManager;
 @Configuration
 public class BeanConfig {
 
-	//定义消息队列
+	//定义消息队列这是一个测试
 	@Bean
 	public Queue queue(){
 		
